@@ -21,7 +21,7 @@
     "@types/react-native": "^0.62.4",
     "@types/react-test-renderer": "16.9.2",
     "@typescript-eslint/eslint-plugin": "^2.29.0",
-    "@typescript-eslint/parser": "^2.29.0",
+    "@typescript-eslint/parser": "^2.30.0",
     "babel-jest": "^25.4.0",
     "eslint": "^6.5.1",
     "jest": "^25.4.0",
