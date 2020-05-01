@@ -24,7 +24,7 @@
     "@typescript-eslint/parser": "^2.30.0",
     "babel-jest": "^25.5.1",
     "eslint": "^6.5.1",
-    "jest": "^25.5.2",
+    "jest": "^25.5.3",
     "metro-react-native-babel-preset": "^0.59.0",
     "react-test-renderer": "16.13.0",
     "ts-jest": "^25.4.0",
